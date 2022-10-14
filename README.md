@@ -2,16 +2,16 @@
 
 **I’m a full-stack web developer with a background in UX/UI design.**
 
-I’m curently working as a full-stack web developper at the french online media [lesjours.fr](https://lesjours.fr).<br>
+I’m curently working as a full-stack web developper at [lesjours.fr](https://lesjours.fr).<br>
 I worked with various programing languages and I’m mostly interested in Javascript/Typescript, node.js programming.<br>
 I’m also learning React, vue.js and GraphQL.
 
-## 👀 Some online projects
+## 👀 I’ve worked on
 
-- PHP/node.js/Nunjunks/JS/Jquery | [lesjours.fr](https://lesjours.fr)
-- Symfony/Twig/SCSS/JS | [agencenabokov.com](https://agencenabokov.com/)
-- HTML/SCSS/JS | [commun-espoir.org](http://commun-espoir.org/)
-- PHP/SCSS/JS | [ceciliahaentjens.fr](https://ceciliahentjens.fr/)
+- [lesjours.fr](https://lesjours.fr) | PHP/node.js/Nunjunks/JS/Jquery
+- [agencenabokov.com](https://agencenabokov.com/) | Symfony/Twig/SCSS/JS
+- [commun-espoir.org](http://commun-espoir.org/) | HTML/SCSS/JS
+- [ceciliahaentjens.fr](https://ceciliahentjens.fr/)| PHP/SCSS/JS
 
 ## 💌 Find me
 
