@@ -16,7 +16,7 @@ I’m also learning React, vue.js and GraphQL.
 
 ## 💌 Find me
 
-- ✨ [Portfolio](https://ceciliahaentjens.fr/)
+- 🗂 [Portfolio](https://ceciliahaentjens.fr/)
 - 👩‍💻 [Linkedin](https://www.linkedin.com/in/cecilia-haentjens/)
 - 🐦 [Twitter](https://twitter.com/ceciliahntjens)
 - 📷 [Instagram](https://www.instagram.com/ceciliahaentjens/)
