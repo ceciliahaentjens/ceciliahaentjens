@@ -3,8 +3,7 @@
 **I’m a full-stack web developer with a background in UX/UI design.**
 
 I’m curently working as a full-stack web developper at [lesjours.fr](https://lesjours.fr).<br>
-I worked with various programing languages and I’m mostly interested in Javascript/Typescript, node.js programming.<br>
-I’m also learning React, vue.js and GraphQL.
+Even if I’m mostly interested in Javascript/Typescript programming and frameworks, I’ve learned and worked on various technologies such as Node.js, Vanilla JS, PHP, Symfony, React, GraphQL, SQL, MongoDB, mongoose, docker…
 
 ## 👀 I’ve worked on
 
