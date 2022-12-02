@@ -13,6 +13,10 @@ Even if I’m mostly interested in Javascript/Typescript programming and framewo
 - [commun-espoir.org](http://commun-espoir.org/) | PHP/SCSS/JS
 - [ceciliahaentjens.fr](https://ceciliahentjens.fr/)| PHP/SCSS/JS
 
+## 🎈 Others
+
+- [Advent of Code](https://github.com/ceciliahaentjens/advent-of-code) | JS
+
 ## 💌 Find me
 
 - 🗂 [Portfolio](https://ceciliahaentjens.fr/)
