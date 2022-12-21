@@ -10,7 +10,7 @@ I’m mostly interested in Javascript/Typescript programming and front-end devel
 - [Gyn&co](https://github.com/gynandco-fr) | Symfony/Next.js/SCSS
 - [Advent of Code](https://github.com/ceciliahaentjens/advent-of-code) | Javascript
 
-## 🎈 Repositories
+## 🎈 Public repositories
 
 - [Bike rental app](https://github.com/ceciliahaentjens/bike-rental) | Typescript/Node.js/GraphQL/React
 - [Agence Catherine Nabokov](https://github.com/ceciliahaentjens/agence-nabokov) | Symfony/Twig/SCSS/JS
