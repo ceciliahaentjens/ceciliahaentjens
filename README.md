@@ -13,7 +13,7 @@ I’m mostly interested in Javascript/Typescript programming and front-end devel
 ## 🎈 Repositories
 
 - [Bike rental app](https://github.com/ceciliahaentjens/bike-rental) | Typescript/Node.js/GraphQL/React
-- [Agence Catherine Nabokov](https://github.com/ceciliahaentjens/agence-nabokov)) | Symfony/Twig/SCSS/JS
+- [Agence Catherine Nabokov](https://github.com/ceciliahaentjens/agence-nabokov) | Symfony/Twig/SCSS/JS
 
 ## 👀 Deployed app
 
