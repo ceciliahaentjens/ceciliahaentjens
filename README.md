@@ -5,7 +5,7 @@
 I’m curently working as a full-stack web developper at [lesjours.fr](https://lesjours.fr).<br>
 Even if I’m mostly interested in Javascript/Typescript programming and frameworks, I’ve learned and worked on various technologies such as Node.js, Vanilla JS, PHP, Symfony, React, GraphQL, SQL, MongoDB, mongoose, docker…
 
-## 👀 I’ve worked on
+## 👀 Deployed app
 
 - [lesjours.fr](https://lesjours.fr) | PHP/node.js/Nunjunks/JS/Jquery
 - [agencenabokov.com](https://agencenabokov.com/) | Symfony/Twig/SCSS/JS
@@ -13,9 +13,10 @@ Even if I’m mostly interested in Javascript/Typescript programming and framewo
 - [commun-espoir.org](http://commun-espoir.org/) | PHP/SCSS/JS
 - [ceciliahaentjens.fr](https://ceciliahentjens.fr/)| PHP/SCSS/JS
 
-## 🎈 Others
+## 🎈 Repositories
 
-- [Advent of Code](https://github.com/ceciliahaentjens/advent-of-code) | JS
+- [Bike rental](https://github.com/ceciliahaentjens/bike-rental) | Typescript/Node.js/GraphQL/React
+- [Advent of Code](https://github.com/ceciliahaentjens/advent-of-code) | Javascript
 
 ## 💌 Find me
 
