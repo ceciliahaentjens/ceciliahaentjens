@@ -9,7 +9,6 @@ I’m mostly interested in Javascript/Typescript programming and front-end devel
 
 - [Gyn&co](https://github.com/gynandco-fr) | Symfony/Next.js/SCSS
 - [Advent of Code](https://github.com/ceciliahaentjens/advent-of-code) | Javascript
-- [raconter-odylus.org](https://raconter-odylus.org/) | <b>Responsive</b> | PHP/SCSS/JS
 
 ## 🎈 Public repositories
 
@@ -21,6 +20,7 @@ I’m mostly interested in Javascript/Typescript programming and front-end devel
 - [lesjours.fr](https://lesjours.fr) | PHP/node.js/Nunjunks/JS/Jquery
 - [agencenabokov.com](https://agencenabokov.com/) | Symfony/Twig/SCSS/JS
 - [commun-espoir.org](http://commun-espoir.org/) | PHP/SCSS/JS
+- [raconter-odylus.org](https://raconter-odylus.org/) | PHP/SCSS/JS
 - [ceciliahaentjens.fr](https://ceciliahentjens.fr/)| PHP/SCSS/JS
 
 ## 💌 Find me
