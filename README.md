@@ -15,7 +15,7 @@ I’m mostly interested in Javascript/Typescript programming and front-end devel
 - [Bike rental app](https://github.com/ceciliahaentjens/bike-rental) | Typescript/Node.js/GraphQL/React
 - [Agence Catherine Nabokov](https://github.com/ceciliahaentjens/agence-nabokov) | Symfony/Twig/SCSS/JS
 
-## 👀 Deployed app
+## 🚀 Deployed app
 
 - [lesjours.fr](https://lesjours.fr) | PHP/node.js/Nunjunks/JS/Jquery
 - [agencenabokov.com](https://agencenabokov.com/) | Symfony/Twig/SCSS/JS
@@ -25,10 +25,10 @@ I’m mostly interested in Javascript/Typescript programming and front-end devel
 
 ## 💌 Find me
 
-- 🗂 [Portfolio](https://ceciliahaentjens.fr/)
-- 👩‍💻 [Linkedin](https://www.linkedin.com/in/cecilia-haentjens/)
+- 🗂 [Portfolio](https://ceciliahaentjens.fr)
+- 👩‍💻 [Linkedin](https://www.linkedin.com/in/cecilia-haentjens)
+- ⭐️ [Malt](https://www.malt.fr/profile/ceciliahaentjens)
 - 🐦 [Twitter](https://twitter.com/ceciliahntjens)
-- 📷 [Instagram](https://www.instagram.com/ceciliahaentjens/)
 
 ---
 
