@@ -2,18 +2,17 @@
 
 **I’m a full-stack web developer with a background in UX/UI design.**
 
-I’m curently working as a freelance developper after 2 years working as a full-stack developper at [lesjours.fr](https://lesjours.fr).<br>
-I’m mostly interested in Javascript/Typescript programming and front-end development but I’ve learned and worked on various technologies such as Node.js, Vanilla JS, Typescript, PHP, Symfony, React/Next.js, GraphQL, Tailwind, MySQL, MongoDB, mongoose, docker…
+I’m curently working as a freelance developper at [Mediapart](https://www.mediapart.fr/) after almost 2 years working as an apprentice full-stack developper at [lesjours.fr](https://lesjours.fr). I’m mostly interested in Typescript programming and front-end development but I’ve learned and worked on various technologies such as Node.js, JS/TS, React/Next.js, PHP, Symfony, GraphQL, Tailwind, MySQL, PostgreSQL, MongoDB, Mongoose, Docker…
 
 ## 🔨 Ongoing
 
-- [Gyn&co](https://github.com/gynandco-fr) | Symfony/Next.js/SCSS
-- [Advent of Code](https://github.com/ceciliahaentjens/advent-of-code) | Javascript
+- Gyn&co | Symfony/Next.js/SCSS
 
 ## 🎈 Public repositories
 
 - [Bike rental app](https://github.com/ceciliahaentjens/bike-rental) | Typescript/Node.js/GraphQL/React
 - [Agence Catherine Nabokov](https://github.com/ceciliahaentjens/agence-nabokov) | Symfony/Twig/SCSS/JS
+- [Advent of Code](https://github.com/ceciliahaentjens/advent-of-code) | Javascript
 
 ## 🚀 Deployed app
 
