@@ -16,7 +16,6 @@ I’m working since July 23 as a freelance developper at [mediapart.fr](https://
 
 ## 🚀 Deployed app
 
-- [lesjours.fr](https://lesjours.fr) | PHP/node.js/Nunjunks/JS/Jquery
 - [agencenabokov.com](https://agencenabokov.com/) | Symfony/Twig/SCSS/JS
 - [commun-espoir.org](http://commun-espoir.org/) | PHP/SCSS/JS
 - [raconter-odylus.org](https://raconter-odylus.org/) | PHP/SCSS/JS
