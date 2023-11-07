@@ -20,7 +20,7 @@ I’m working since July 23 as a freelance developper at [mediapart.fr](https://
 - [agencenabokov.com](https://agencenabokov.com/) | Symfony/Twig/SCSS/JS
 - [commun-espoir.org](http://commun-espoir.org/) | PHP/SCSS/JS
 - [raconter-odylus.org](https://raconter-odylus.org/) | PHP/SCSS/JS
-- [ceciliahaentjens.fr](https://ceciliahentjens.fr/) | PHP/SCSS/JS
+- [ceciliahaentjens.fr](https://ceciliahaentjens.fr/) | PHP/SCSS/JS
 
 ## 💌 Find me
 
