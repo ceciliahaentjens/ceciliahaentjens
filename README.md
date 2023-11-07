@@ -2,7 +2,7 @@
 
 **I’m a full-stack web developer with a background in UX/UI design.**
 
-I’m curently working as a freelance developper at [Mediapart](https://www.mediapart.fr/) after almost 2 years working as an apprentice full-stack developper at [lesjours.fr](https://lesjours.fr). I’m mostly interested in Typescript programming and front-end development but I’ve learned and worked on various technologies such as Node.js, JS/TS, React/Next.js, PHP, Symfony, GraphQL, Tailwind, MySQL, PostgreSQL, MongoDB, Mongoose, Docker…
+I’m working since July 23 as a freelance developper at [mediapart.fr](https://www.mediapart.fr/) after almost 2 years working as an apprentice full-stack developper at [lesjours.fr](https://lesjours.fr). I’m mostly interested in working in the media field because I believe in the importance of an independent journalism. I love JS/TS programming and front-end development with Next.js but I’ve also learned and worked on various technologies such as Node.js, PHP, Symfony, GraphQL, Tailwind, MySQL, PostgreSQL, MongoDB, Docker…
 
 ## 🔨 Ongoing
 
